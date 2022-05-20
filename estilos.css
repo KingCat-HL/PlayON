@@ -1,0 +1,18 @@
+* body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #65a1da, #b810b8);
+}
+#login .container #login-row #login-column #login-box{
+    margin-top: 10px;
+    max-width: 600px;
+    height: 550px; /*Originalmente tenia 300 px*/
+    box-shadow: 2px 2px 2px 2px #343a34;
+    border-radius: 3px;
+}
+#titulo{
+    font-family: cursive;
+    font-size: 62px;
+    color: #fff;
+
+}
